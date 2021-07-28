@@ -28,7 +28,5 @@ void loop() {
   analogWrite(sled,potdeg/4);
   analogWrite(yled,potdeg/4);
 
-
-
-  
+ //saygılarımla forfcyber 28.07.2021
 }
