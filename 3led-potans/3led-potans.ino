@@ -29,4 +29,6 @@ void loop() {
   analogWrite(yled,potdeg/4);
 
  //saygılarımla forfcyber 28.07.2021
+ 
+ //teşekkürler pinoo
 }
