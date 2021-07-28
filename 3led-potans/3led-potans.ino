@@ -4,7 +4,6 @@ int kled=2;//kr led 2nolu pine bağlandı
 int sled=3; 
 int yled=4;
 
- //pot degerini d harfine atadım
 int pot=A0; //potansiyometreyi A0(analog sıfıra bağladık)
 
 void setup() {
